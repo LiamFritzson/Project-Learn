@@ -1,1 +1,13 @@
-{}
+{
+    "dotnet.sdkPath": "C:\\Users\\se52374\\OneDrive - Fresenius\\PC\\Documents\\Project-Learn\\api\\.net\\sdk",
+    "omnisharp.dotnetPath": "C:\\Users\\se52374\\OneDrive - Fresenius\\PC\\Documents\\Project-Learn\\api\\.net",
+    "omnisharp.sdkPath": "C:\\Users\\se52374\\OneDrive - Fresenius\\PC\\Documents\\Project-Learn\\api\\.net\\sdk",
+    "dotnetAcquisitionExtension.existingDotnetPath": [
+        "C:\\Users\\se52374\\OneDrive - Fresenius\\PC\\Documents\\Project-Learn\\api\\.net"
+    ],
+    "dotnetAcquisitionExtension.allowInvalidPaths": true,
+    "editor.defaultFormatter": "csharpier.csharpier-vscode",
+    "[csharp]": {
+        "editor.defaultFormatter": "csharpier.csharpier-vscode"
+    }
+}
